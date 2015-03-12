@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="false position" />
+		<Option pch_mode="2" />
+		<Option compiler="msvctk" />
+		<Build>
+			<Target title="default">
+				<Option output="nr" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="msvctk" />
+			</Target>
+		</Build>
+		<Unit filename="nr_main.cpp" />
+		<Unit filename="functions.cpp" />
+		<Unit filename="functions.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
